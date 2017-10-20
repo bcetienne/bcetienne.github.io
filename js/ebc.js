@@ -4,7 +4,8 @@ $(function () {
         "un développeur",
         "un designer",
         "un passionné",
-        "dynamique"
+        "dynamique",
+        "de la savoie"
         ];
 
     //menu responsive pour ecrans <= medium (<992px)
